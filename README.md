@@ -17,5 +17,5 @@ The analysis will attempt to estimate various parameters about CME and use for c
 ## Usage
 All of the analysis is in a notebook. Fire it up as:
 ```bash
-> jupyter notebook notebooks/Lasco_catalog.ipynb
+> jupyter notebook notebooks/Lasco_cme_catalog_analysis.ipynb
 ```
