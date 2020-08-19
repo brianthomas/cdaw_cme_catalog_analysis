@@ -5,6 +5,10 @@ Repository for code analyzing CDAW CME catalog found at this location:
 
 https://cdaw.gsfc.nasa.gov/CME_list/UNIVERSAL/text_ver/univ_all.txt
 
+catalog description here:
+
+https://cdaw.gsfc.nasa.gov/CME_list/catalog_description.htm
+
 The analysis will attempt to estimate various parameters about CME and use for classification into types.
 
 ## Installation
