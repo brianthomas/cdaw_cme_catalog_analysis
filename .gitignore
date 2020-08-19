@@ -6,12 +6,15 @@ __pycache__/
 *.json
 *.hdf5
 
+lasco_catalog.txt
+
 # C extensions
 *.so
 
 # Distribution / packaging
 .Python
 env/
+venv/
 build/
 develop-eggs/
 dist/
