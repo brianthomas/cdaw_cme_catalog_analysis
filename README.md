@@ -1,7 +1,7 @@
-# LASCO CME Catalog Analysis
+# CDAW CME Catalog Analysis
 
 ## About
-Repository for code analyzing SOHO LASCO CME catalog found at this location:
+Repository for code analyzing CDAW CME catalog found at this location:
 
 https://cdaw.gsfc.nasa.gov/CME_list/UNIVERSAL/text_ver/univ_all.txt
 
@@ -17,5 +17,5 @@ The analysis will attempt to estimate various parameters about CME and use for c
 ## Usage
 All of the analysis is in a notebook. Fire it up as:
 ```bash
-> jupyter notebook notebooks/Lasco_cme_catalog_analysis.ipynb
+> jupyter notebook notebooks/cdaw_cme_catalog_analysis.ipynb
 ```

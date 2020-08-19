@@ -6,7 +6,7 @@ __pycache__/
 *.json
 *.hdf5
 
-lasco_catalog.txt
+cdaw_catalog.txt
 
 # C extensions
 *.so
