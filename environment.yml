@@ -1,0 +1,12 @@
+name: cdaw_catalog
+channels:
+- conda-forge
+dependencies:
+- python
+- pip
+- numpy
+- matplotlib
+- requests
+- pandas
+- jupyterlab
+- bokeh
